@@ -1,0 +1,12 @@
+baseURL: "https://blog.aleix.cloud/"
+languageCode: "es-es"
+title: "One more tech blog..."
+theme: "hugo-theme-novela"
+pygmentsstyle: "monokai"
+paginate: 6
+social:
+  twitter: "https://twitter.com/aleixmurtra"
+  github: "https://github.com/alemuro"
+  linkedin: "https://www.linkedin.com/in/aleix-murtra/"
+taxonomies:
+  author: authors
