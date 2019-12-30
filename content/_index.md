@@ -1,5 +1,5 @@
 ---
 hero:
-  heading: Welcome to Novela, the simplest way to start publishing with Hugo.
+  heading: 
   maxWidthPX: 652
 ---
