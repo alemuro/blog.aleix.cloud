@@ -1,6 +1,6 @@
 baseURL: "https://blog.aleix.cloud/"
 languageCode: "es-es"
-title: "One more tech blog..."
+title: "Blog de Aleix"
 theme: "hugo-theme-novela"
 pygmentsstyle: "monokai"
 paginate: 6

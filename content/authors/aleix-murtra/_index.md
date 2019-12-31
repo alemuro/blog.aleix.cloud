@@ -10,5 +10,7 @@ social:
   url: https://github.com/alemuro
 - title: twitter
   url: https://twitter.com/aleixmurtra
+- title: linkedin
+  url: https://www.linkedin.com/in/aleix-murtra/
 
 ---
