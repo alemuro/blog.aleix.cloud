@@ -1,6 +1,6 @@
 +++
 authors = ["aleix-murtra"]
-date = "2020-01-01"
+date = "2019-12-31"
 draft = false
 excerpt = "Antes de empezar a automatizar nuestra casa necesitamos tomar una decisión importante, y es que hay que elegir la placa que mejor nos conviene."
 hero = "/images/usb-technology-green-microchip-57007.jpg"

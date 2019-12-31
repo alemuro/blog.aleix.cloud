@@ -1,6 +1,6 @@
 +++
 authors = ["aleix-murtra"]
-date = "2020-01-01"
+date = "2019-12-31"
 draft = false
 excerpt = "Recomiendo centralizar la gestión de vuestros dispositivos desde una Raspberry Pi. Podréis integrar dispositivos de distintas marcas, mejorar la privacidad y seguridad, conectar APIs, y un largo etc."
 hero = "/images/home-assistant-screenshot.jpg"
