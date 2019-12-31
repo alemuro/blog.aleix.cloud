@@ -2,7 +2,7 @@
 authors = ["aleix-murtra"]
 date = "2019-12-31"
 draft = false
-excerpt = ""
+excerpt = "Recomiendo dos maneras de instalar Home Assistant, con Docker o usando Virtualenv. En cualquier caso, aquí verás los cuatro comandos que puedes usar para cada opción."
 hero = "/images/hero-terminal-ls-root.jpg"
 timeToRead = 10
 title = "Cómo instalar Home Assistant"
