@@ -5,7 +5,7 @@ draft = false
 excerpt = "Recomiendo centralizar la gestión de vuestros dispositivos desde una Raspberry Pi. Podréis integrar dispositivos de distintas marcas, mejorar la privacidad y seguridad, conectar APIs, y un largo etc."
 hero = "/images/home-assistant-screenshot.jpg"
 timeToRead = 7
-title = "Por qué uso Home Assistant"
+title = "¿Por qué uso Home Assistant?"
 
 +++
  
